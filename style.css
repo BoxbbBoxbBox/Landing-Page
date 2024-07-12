@@ -26,6 +26,7 @@ a:hover {
 .up {
     display: flex;
     margin: 0 10rem;
+    flex-wrap: wrap;
 }
 
 ul {
@@ -34,6 +35,7 @@ ul {
     gap: 2rem;
     list-style: none;
     color: #E5E7EB;
+    flex-wrap: wrap;
 }
 
 .small_logo {
